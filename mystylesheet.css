@@ -1,0 +1,41 @@
+body {
+  background-color: #f3e9d2ff;
+  color: #588157;
+}
+.mypage {
+  width: 100%;
+  height: 800px;
+
+}
+.mysidebar {
+  width: 350px;
+  background-color: #c6dabfff;
+  color: #114b5fff;
+  vertical-align: top;
+}
+.mysidebar table {
+  margin-left: 17px;
+  margin-top: 32px;
+}
+.mysidebar table tr td {
+  padding: 10px;
+  vertical-align: top;
+}
+.mymain {
+  padding: 35px;
+  vertical-align: top;
+  border-left: 3px solid;
+}
+.mymain p {
+  font-size: 19px;
+  padding-right: 7%;
+  text-indent: 30px;
+  text-align: justify;
+}
+.skill-node {
+  background-color: #c6dabfff;
+  color: #114b5fff;
+  padding: 3px;
+  padding-left: 25px;
+  box-shadow: -0px -0px 2px;
+}
